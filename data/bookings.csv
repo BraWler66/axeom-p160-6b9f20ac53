@@ -1,0 +1,176 @@
+booking_id,date,client_name,email,service,status,price
+B001,04/01/2026,Vista Church,media@vistadfw.org,Podcast Studio 2hr,completed,300
+B002,04/06/2026,Mind & Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B003,04/13/2026,Tanya Whitfield DDS,tanya@whitfielddental.com,Content Day,completed,1500
+B004,04/13/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,$300
+B005,04/13/2026,Dallas Builders Podcast,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B006,04/14/2026,Sofia Ortiz,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B007,04/15/2026,Lakeside,mike@lakeside.build,Content Day,completed,"$1,500"
+B008,04/17/2026,Maple Roofing Co,sam@mapleroofingco.com,Reels Pack,completed,900
+B009,04/21/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,300
+B010,04/21/2026,Summit Med Spa,lucia@summitmedspa.com,Content Day,completed,"$1,500"
+B011,04/27/2026,Mind & Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B012,04/28/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,300
+B013,04/28/2026,Erin Daniels,erin@parksidebridal.com,Reels Pack,completed,$900
+B014,04/28/2026,Evergreen WP,dmalik@evergreenwp.com,Retainer Shoot,completed,0
+B015,04/30/2026,Dallas Builders,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B016,05/05/2026,Vista Church,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B017,05/06/2026,Jackson Law Firm PLLC,sjackson@jacksonlaw.com,Retainer Shoot,completed,0
+B018,05/08/2026,Mind and Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B019,05/11/2026,Evergreen WP,dmalik@evergreenwp.com,Retainer Shoot,completed,$0
+B020,05/11/2026,Copperline Fit,victor@copperlinefit.co,Reels Pack,completed,$900
+B021,05/12/2026,Sunset Chiro,drmorales@sunsetchiro.com,Retainer Shoot,completed,0
+B022,05/13/2026,Vista Church,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B023,05/14/2026,Mind & Money,sofia.ortiz.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B024,05/14/2026,Dallas Builders,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B025,05/14/2026,Canyon,megan@canyonmedspa.com,Reels Pack,completed,$900
+B026,05/18/2026,Maple Roofing,sam@mapleroofingco.com,Reels Pack,completed,$900
+B027,05/21/2026,Rosewood Barbers,wes@rosewoodbarbers.com,Reels Pack,completed,900
+B028,05/22/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B029,05/25/2026,Ochoa Insurance Group,tony@ochoainsures.com,Retainer Shoot,completed,$0
+B030,05/27/2026,M&M Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B031,05/27/2026,Erin Daniels,erin@parksidebridal.com,Reels Pack,completed,$900
+B032,05/28/2026,Stone Bridge Realty LLC,kim@stonebridgerealty.com,Content Day,completed,1500
+B033,05/29/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B034,06/01/2026,Dr. Leah Torres,leah@granitedental.com,Content Day,completed,1500
+B035,06/01/2026,Dallas Builders Podcast,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B036,06/05/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B037,06/05/2026,Copperline Fitness,victor@copperlinefit.co,Reels Pack,completed,$900
+B038,06/08/2026,M&M Podcast,sofia.ortiz.mail@gmail.com,Podcast Studio 2hr,completed,300
+B039,06/08/2026,Lakeside,mike@lakeside.build,Content Day,completed,"$1,500"
+B040,06/08/2026,Sunset Chiropractic,drmorales@sunsetchiro.com,Retainer Shoot,completed,0
+B041,06/09/2026,Whitfield Dental PLLC,tanya@whitfielddental.com,Content Day,completed,1500
+B042,06/10/2026,Canyon Med Spa - Frisco,megan@canyonmedspa.com,Reels Pack,completed,$900
+B043,06/10/2026,Kingsley Pediatrics,jen@bluecatmktg.com,Reels Pack,completed,900
+B044,06/11/2026,Whitfield Family Law,info@whitfieldfamilylaw.com,Reels Pack,completed,$900
+B045,06/11/2026,Summit Med Spa,lucia@summitmedspa.com,Content Day,completed,"$1,500"
+B046,06/11/2026,Tony Ochoa,tony@ochoainsures.com,Retainer Shoot,completed,0
+B047,06/12/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B048,06/15/2026,Quinn Walsh,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B049,06/15/2026,Jackson Law Firm,sjackson@jacksonlaw.com,Retainer Shoot,completed,0
+B050,06/15/2026,Evergreen Wealth Partners,dmalik@evergreenwp.com,Retainer Shoot,completed,0
+B051,06/16/2026,Maple Roofing Co,sam@mapleroofingco.com,Reels Pack,completed,900
+B052,06/22/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B053,06/22/2026,M&M Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B054,06/22/2026,Parkside Bridal,erin@parksidebridal.com,Reels Pack,completed,900
+B055,06/23/2026,Willow Coffee,sofia@willowcoffee.com,Reels Pack,completed,$900
+B056,06/23/2026,Ridgeway Builders LLC,reggie@ridgeway.build,Content Day,completed,1500
+B057,06/24/2026,Wes Shah,wes@rosewoodbarbers.com,Reels Pack,completed,$900
+B058,06/29/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B059,06/29/2026,M&M Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B060,07/01/2026,Greenway PT,jen@bluecatmktg.com,Reels Pack,completed,$900
+B061,07/03/2026,Dallas Builders,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B062,07/06/2026,Vista Church,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B063,07/06/2026,Mind & Money Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B064,07/06/2026,Dr. Morales,drmorales@sunsetchiro.com,Retainer Shoot,completed,0
+B065,07/07/2026,Carlos Morales,carlos@primegym.co,Reels Pack,completed,900
+B066,07/09/2026,Copperline Fit,victor@copperlinefit.co,Reels Pack,completed,900
+B067,07/10/2026,Sam Shah,sam@mapleroofingco.com,Reels Pack,completed,900
+B068,07/13/2026,Whitfield Dental,tanya@whitfielddental.com,Content Day,completed,1500
+B069,07/13/2026,Evergreen Wealth,dmalik@evergreenwp.com,Retainer Shoot,completed,0
+B070,07/14/2026,Granite Dental,leah@granitedental.com,Content Day,completed,1500
+B071,07/14/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B072,07/14/2026,Ochoa Insurance Group,tony@ochoainsures.com,Retainer Shoot,completed,0
+B073,07/14/2026,Apexlab Coffee,megan@theapexlab.coffee,Reels Pack,completed,$900
+B074,07/16/2026,Kim Torres,kim@stonebridgerealty.com,Content Day,completed,"$1,500"
+B075,07/16/2026,Sofia Ortiz,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B076,07/16/2026,Erin Daniels,erin@parksidebridal.com,Reels Pack,completed,$900
+B077,07/16/2026,Sage Family Therapy,spatel@sagefamilytherapy.com,Content Day,completed,1500
+B078,07/17/2026,Trent Whitfield,info@whitfieldfamilylaw.com,Reels Pack,completed,900
+B079,07/20/2026,Morales's Auto Spa,lucia@moralessautospa.com,Reels Pack,completed,$900
+B080,07/20/2026,Dallas Builders,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B081,07/20/2026,Summit Med Spa - Frisco,lucia@summitmedspa.com,Content Day,completed,"$1,500"
+B082,07/20/2026,Canyon Med Spa,megan@canyonmedspa.com,Reels Pack,completed,900
+B083,07/20/2026,Kingsley Pediatrics,jen@bluecatmktg.com,Reels Pack,completed,$900
+B084,07/21/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B085,07/21/2026,Willow Coffee Roasters,sofia@willowcoffee.com,Reels Pack,completed,$900
+B086,07/22/2026,M&M Podcast,sofia.ortiz.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B087,07/22/2026,Wes Shah,wes@rosewoodbarbers.com,Reels Pack,completed,$900
+B088,07/29/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B089,07/30/2026,Lakeside Builders,mike@lakeside.build,Content Day,completed,1500
+B090,08/03/2026,Mind & Money Podcast,sofia.ortiz.mail@gmail.com,Podcast Studio 2hr,completed,300
+B091,08/03/2026,Greenway Physical Therapy,dkim@greenwayptdallas.com,Reels Pack,completed,$900
+B092,08/05/2026,Quinn Walsh,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B093,08/06/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B094,08/06/2026,Ethan's Roofing,ethan@ethansroofingtx.com,Reels Pack,completed,$900
+B095,08/07/2026,Apex Lab,megan@theapexlab.coffee,Reels Pack,completed,$900
+B096,08/10/2026,Sam Shah,sam@mapleroofingco.com,Reels Pack,completed,900
+B097,08/10/2026,Tony Ochoa,tony@ochoainsures.com,Retainer Shoot,completed,$0
+B098,08/12/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B099,08/12/2026,Mind and Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B100,08/12/2026,Prime Athletics,carlos@primeathletics.com,Reels Pack,completed,$900
+B101,08/12/2026,Ridgeway Builders LLC,reggie@ridgeway.build,Content Day,completed,"$1,500"
+B102,08/13/2026,Stonebridge RG,kevin@stonebridgerg.com,Content Day,completed,"$1,500"
+B103,08/13/2026,Victor Jackson,victor@copperlinefit.co,Reels Pack,completed,$900
+B104,08/13/2026,Dr. Morales,drmorales@sunsetchiro.com,Retainer Shoot,completed,$0
+B105,08/13/2026,Canyon Med Spa - Plano,megan@canyonmedspa.com,Reels Pack,completed,$900
+B106,08/14/2026,Moraless Auto,lucia@moralessautospa.com,Reels Pack,completed,$900
+B107,08/14/2026,Evergreen Wealth Partners,dmalik@evergreenwp.com,Retainer Shoot,completed,0
+B108,08/17/2026,Whitfield Family Law,info@whitfieldfamilylaw.com,Reels Pack,completed,900
+B109,08/17/2026,Wes Shah,wes@rosewoodbarbers.com,Reels Pack,completed,900
+B110,08/17/2026,Willow Coffee Roasters,sofia@willowcoffee.com,Reels Pack,completed,900
+B111,08/18/2026,Vista Church,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B112,08/18/2026,Parkside Bridal,erin@parksidebridal.com,Reels Pack,completed,900
+B113,08/20/2026,Kim Torres,kim@stonebridgerealty.com,Content Day,completed,1500
+B114,08/20/2026,Quinn Walsh,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B115,08/24/2026,Dr. Leah Torres,leah@granitedental.com,Content Day,completed,"$1,500"
+B116,08/24/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B117,08/24/2026,Kingsley Peds,jen@bluecatmktg.com,Reels Pack,completed,$900
+B118,08/25/2026,M&M Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B119,08/28/2026,Kim's Auto Spa,imran@kimsautospa.com,Reels Pack,completed,900
+B120,08/31/2026,Greenway Physical Therapy,jen@bluecatmktg.com,Reels Pack,completed,900
+B121,09/01/2026,Whitfield Dental PLLC,tanya@whitfielddental.con,Content Day,completed,"$1,500"
+B122,09/01/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B123,09/01/2026,Golden Years Homecare,gloria@goldenyearshomecare.com,Content Day,completed,1500
+B124,09/02/2026,Dr. Sarah Patel,spatel@sagefamilytherapy.com,Content Day,completed,"$1,500"
+B125,09/02/2026,Ethan Wallace,ethan@ethansroofingtx.com,Reels Pack,completed,$900
+B126,09/03/2026,Mind & Money Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B127,09/04/2026,The Apex Lab,megan@theapexlab.coffee,Reels Pack,completed,900
+B128,09/07/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,$255
+B129,09/07/2026,Quinn Walsh,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B130,09/08/2026,Lakeside & Co Builders,mike@lakeside.build,Content Day,completed,1500
+B131,09/11/2026,Summit Medspa,lucia@summitmedspa.com,Content Day,completed,"$1,500"
+B132,09/11/2026,Canyon Med Spa - Frisco,megan@canyonmedspa.com,Reels Pack,completed,900
+B133,09/14/2026,Mind and Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,$300
+B134,09/14/2026,Sam Shah,sam@mapleroofingco.com,Reels Pack,completed,900
+B135,09/14/2026,Evergreen WP,dmalik@evergreenwp.com,Retainer Shoot,completed,0
+B136,09/14/2026,Sunset Chiropractic,drmorales@sunsetchiro.com,Retainer Shoot,completed,$0
+B137,09/14/2026,Ochoa Insurance,tony@ochoainsures.com,Retainer Shoot,completed,$0
+B138,09/15/2026,Whitfield Family Law,info@whitfieldfamilylaw.com,Reels Pack,completed,$900
+B139,09/15/2026,Wes Shah,wes@rosewoodbarbers.com,Reels Pack,completed,$900
+B140,09/16/2026,Vista DFW,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B141,09/17/2026,Willow Coffee Roasters,sofia@willowcoffee.com,Reels Pack,completed,$900
+B142,09/17/2026,Prime Athletics,carlos@primeathletics.com,Reels Pack,completed,$900
+B143,09/22/2026,Quinn Walsh,quinn@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B144,09/22/2026,Copperline Fitness,victor@copperlinefit.co,Reels Pack,completed,$900
+B145,09/22/2026,Kims Auto,imran@kimsautospa.com,Reels Pack,completed,$900
+B146,09/22/2026,Ridgeway,reggie@ridgeway.build,Content Day,completed,1500
+B147,09/22/2026,Kim Torres,kim@stonebridgerealty.com,Content Day,cancelled,1500
+B148,09/23/2026,Moraless Auto,lucia@moralessautospa.com,Reels Pack,completed,$900
+B149,09/23/2026,Erin Daniels,erin@parksidebridal.com,Reels Pack,completed,900
+B150,09/24/2026,Kevin Mendez,kevin@stonebridgerg.com,Content Day,completed,"$1,500"
+B151,09/24/2026,Mind & Money,sofia.ortiz.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B152,09/28/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,completed,255
+B153,09/30/2026,Mind & Money,sofia@mindandmoney.fm,Podcast Studio 2hr,completed,300
+B154,10/01/2026,Greenway Physical Therapy,jen@bluecatmktg.com,Reels Pack,completed,900
+B155,10/02/2026,Bluecat - Kingsley,jen@bluecatmktg.com,Reels Pack,completed,$900
+B156,10/02/2026,Stone Bridge Realty LLC,kim@stonebridgerealty.com,Content Day,completed,"$1,500"
+B157,10/06/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,upcoming,$255
+B158,10/08/2026,Apexlab Coffee,megan@theapexlab.coffee,Reels Pack,upcoming,$900
+B159,10/08/2026,Ethan's Roofing LLC,ethan@ethansroofingtx.com,Reels Pack,upcoming,900
+B160,10/09/2026,Dallas Builders,quinn@dallasbuilders.fm,Podcast Studio 4hr,upcoming,550
+B161,10/12/2026,Whitfield Dental,tanya@whitfielddental.com,Content Day,upcoming,1500
+B162,10/12/2026,Stone Bridge Realty LLC,kim@stonebridgerealty.com,Content Day,upcoming,"$1,500"
+B163,10/12/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,upcoming,$255
+B164,10/12/2026,M&M Podcast,sofia@mindandmoney.fm,Podcast Studio 2hr,upcoming,300
+B165,10/12/2026,Evergreen Wealth,dmalik@evergreenwp.com,Retainer Shoot,upcoming,0
+B166,10/12/2026,Sunset Chiropractic,drmorales@sunsetchiro.com,Retainer Shoot,upcoming,$0
+B167,10/13/2026,Ochoa Insurance,tony@ochoainsures.com,Retainer Shoot,upcoming,$0
+B168,10/13/2026,Willow Coffee Roasters,sofia@willowcoffee.com,Reels Pack,upcoming,$900
+B169,10/14/2026,Lakeside,mike@lakeside.build,Content Day,upcoming,1500
+B170,10/14/2026,Rosewood Barbers,wes@rosewoodbarbers.com,Reels Pack,upcoming,900
+B171,10/16/2026,Kims Auto,imran@kimsautospa.com,Content Day,upcoming,"$1,500"
+B172,10/19/2026,Dr. Leah Torres,leah@granitedental.com,Content Day,upcoming,1500
+B173,10/19/2026,Sam Shah,sam@mapleroofingco.com,Reels Pack,upcoming,900
+B174,10/19/2026,Canyon Medspa,megan@canyonmedspa.com,Reels Pack,upcoming,$900
+B175,10/20/2026,Vista Media Team,media@vistadfw.org,Podcast Studio 2hr,upcoming,$255

@@ -1,0 +1,155 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Vista Media Team,media@vistadfw.org,2026-04-01,2026-04-15,300.00,paid,
+INV-1002,Sofia Ortiz,sofia@mindandmoney.fm,2026-04-07,2026-04-21,300.00,paid,B002 Podcast Studio 2hr
+INV-1003,Mind and Money,sofia@mindandmoney.fm,2026-04-14,2026-04-28,300.00,paid,
+INV-1004,Vista Media Team,media@vistadfw.org,2026-04-15,2026-04-29,300.00,paid,
+INV-1005,Quinn Walsh,quinn@dallasbuilders.fm,2026-04-15,2026-04-29,550.00,paid,B005 Podcast Studio 4hr
+INV-1006,Dr. Tanya Whitfield,tanya@whitfielddental.com,2026-04-16,2026-04-30,1500.00,paid,B003 Content Day
+INV-1007,Lakeside Builders LLC,mike@lakeside.build,2026-04-18,2026-05-02,1500.00,paid,
+INV-1008,Sam Shah,sam@mapleroofingco.com,2026-04-18,2026-05-02,900.00,paid,
+INV-1009,Vista DFW,media@vistadfw.org,2026-04-21,2026-05-05,300.00,paid,Podcast Studio 2hr 4/21
+INV-1010,Summit Med Spa - Frisco,lucia@summitmedspa.com,2026-04-21,2026-05-05,1500.00,paid,
+INV-1011,Sofia Ortiz,sofia@mindandmoney.fm,2026-04-28,2026-05-12,300.00,paid,
+INV-1012,Parkside Bridal,erin@parksidebridal.com,2026-04-30,2026-05-14,900.00,paid,B013 Reels Pack
+INV-1013,Sunset Chiropractic,drmorales@sunsetchiro.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1014,Vista Church,media@vistadfw.org,2026-05-01,2026-05-15,300.00,paid,B012 Podcast Studio 2hr
+INV-1015,Jackson Law,sjackson@jacksonlaw.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1016,Evergreen Wealth Partners,dmalik@evergreenwp.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1017,Quinn Walsh,quinn@dallasbuilders.fm,2026-05-03,2026-05-17,550.00,paid,Podcast Studio 4hr 4/30
+INV-1018,Vista Media Team,media@vistadfw.org,2026-05-06,2026-05-20,255.00,paid,Podcast Studio 2hr 5/5
+INV-1019,Sofia Ortiz,sofia@mindandmoney.fm,2026-05-09,2026-05-23,300.00,paid,B018 Podcast Studio 2hr
+INV-1020,Copperline Fit,victor@copperlinefit.co,2026-05-11,2026-05-25,900.00,paid,B020 Reels Pack
+INV-1021,Vista Media Team,media@vistadfw.org,2026-05-14,2026-05-28,255.00,paid,
+INV-1022,Canyon Med Spa - Plano,megan@canyonmedspa.com,2026-05-15,2026-05-29,900.00,paid,
+INV-1023,Dallas Builders Podcast,quinn@dallasbuilders.fm,2026-05-15,2026-05-29,550.00,paid,Podcast Studio 4hr 5/14
+INV-1024,Mind & Money,sofia@mindandmoney.fm,2026-05-16,2026-05-30,300.00,paid,
+INV-1025,Maple Roofing,sam@mapleroofingco.com,2026-05-19,2026-06-02,900.00,paid,
+INV-1026,Rosewood Barbershop,wes@rosewoodbarbers.com,2026-05-22,2026-06-05,900.00,paid,
+INV-1027,Vista DFW,media@vistadfw.org,2026-05-23,2026-06-06,255.00,paid,
+INV-1028,M&M Podcast,sofia@mindandmoney.fm,2026-05-28,2026-06-11,300.00,paid,B030 Podcast Studio 2hr
+INV-1029,Erin Daniels,erin@parksidebridal.com,2026-05-29,2026-06-12,900.00,paid,B031 Reels Pack
+INV-1030,Kim Torres,kim@stonebridgerealty.com,2026-05-29,2026-06-12,1500.00,paid,
+INV-1031,Jackson,sjackson@jacksonlaw.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1032,Tony Ochoa,tony@ochoainsures.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1033,Evergreen WP,dmalik@evergreenwp.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1034,Dr. Morales,drmorales@sunsetchiro.com,2026-06-01,2026-06-15,2000.00,paid,Monthly retainer June
+INV-1035,Vista Church,media@vistadfw.org,2026-06-01,2026-06-15,255.00,paid,Podcast Studio 2hr 5/29
+INV-1036,Dr. Leah Torres,leah@granitedental.com,2026-06-03,2026-06-17,1500.00,paid,Content Day 6/1
+INV-1037,Dallas Builders,quinn@dallasbuilders.fm,2026-06-04,2026-06-18,550.00,paid,
+INV-1038,Copperline,victor@copperlinefit.co,2026-06-05,2026-06-19,900.00,paid,Reels Pack 6/5
+INV-1039,Vista DFW,media@vistadfw.org,2026-06-07,2026-06-21,255.00,paid,
+INV-1040,Lakeside Builders LLC,mike@lakeside.build,2026-06-08,2026-06-22,1500.00,paid,Content Day 6/8
+INV-1041,Sofia Ortiz,sofia@mindandmoney.fm,2026-06-09,2026-06-23,300.00,paid,
+INV-1042,Canyon Med Spa,megan@canyonmedspa.com,2026-06-11,2026-06-25,900.00,paid,Reels Pack 6/10
+INV-1043,Dr Whitfield,tanya@whitfielddental.com,2026-06-11,2026-06-25,1500.00,paid,
+INV-1044,Bluecat Agency,jen@bluecatmktg.com,2026-06-11,2026-06-25,900.00,paid,Reels Pack 6/10
+INV-1045,Whitfield Law,info@whitfieldfamilylaw.com,2026-06-12,2026-06-26,900.00,paid,B044 Reels Pack
+INV-1046,Summit Med Spa,lucia@summitmedspa.com,2026-06-13,2026-06-27,1500.00,paid,Content Day 6/11
+INV-1047,Vista Church,media@vistadfw.org,2026-06-13,2026-06-27,255.00,paid,Podcast Studio 2hr 6/12
+INV-1048,Maple Roofing,sam@mapleroofingco.com,2026-06-16,2026-06-30,900.00,paid,Reels Pack 6/16
+INV-1049,Dallas Builders Podcast,quinn@dallasbuilders.fm,2026-06-18,2026-07-02,550.00,paid,Podcast Studio 4hr 6/15
+INV-1050,Vista Media Team,media@vistadfw.org,2026-06-23,2026-07-07,255.00,paid,
+INV-1051,Ridgeway,reggie@ridgeway.build,2026-06-24,2026-07-08,1500.00,paid,Content Day 6/23
+INV-1052,Rosewood Barbers,wes@rosewoodbarbers.com,2026-06-24,2026-07-08,900.00,paid,
+INV-1053,M&M Podcast,sofia@mindandmoney.fm,2026-06-25,2026-07-09,300.00,paid,
+INV-1054,Parkside Bridal Boutique,erin@parksidebridal.com,2026-06-25,2026-07-09,900.00,paid,
+INV-1055,Willow Coffee,sofia@willowcoffee.com,2026-06-26,2026-07-10,900.00,paid,B055 Reels Pack
+INV-1056,Mind & Money,sofia@mindandmoney.fm,2026-06-30,2026-07-14,300.00,paid,
+INV-1057,Ochoa Insurance Group,tony@ochoainsures.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1058,Bluecat Agency,jen@bluecatmktg.com,2026-07-01,2026-07-15,900.00,paid,
+INV-1059,Evergreen WP,dmalik@evergreenwp.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1060,Sunset Chiro,drmorales@sunsetchiro.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1061,Vista DFW,media@vistadfw.org,2026-07-01,2026-07-15,255.00,paid,
+INV-1062,Mind & Money,sofia@mindandmoney.fm,2026-07-06,2026-07-20,300.00,unpaid,Podcast Studio 2hr 7/6
+INV-1063,Dallas Builders,quinn@dallasbuilders.fm,2026-07-06,2026-07-20,550.00,paid,
+INV-1064,Prime Gym,carlos@primegym.co,2026-07-08,2026-07-22,900.00,paid,
+INV-1065,Vista Media Team,media@vistadfw.org,2026-07-09,2026-07-23,255.00,paid,Podcast Studio 2hr 7/6
+INV-1066,Maple Roofing,sam@mapleroofingco.com,2026-07-10,2026-07-24,900.00,paid,B067 Reels Pack
+INV-1067,Copperline Fit,victor@copperlinefit.co,2026-07-10,2026-07-24,900.00,paid,
+INV-1068,Vista DFW,media@vistadfw.org,2026-07-14,2026-07-28,255.00,paid,B071 Podcast Studio 2hr
+INV-1069,Granite Dental,leah@granitedental.com,2026-07-15,2026-07-29,1500.00,paid,
+INV-1070,Dr Whitfield,tanya@whitfielddental.com,2026-07-15,2026-07-29,1500.00,unpaid,B068 Content Day
+INV-1071,Parkside Bridal Boutique,erin@parksidebridal.com,2026-07-16,2026-07-30,900.00,paid,Reels Pack 7/16
+INV-1072,Sofia Ortiz,sofia@mindandmoney.fm,2026-07-16,2026-07-30,300.00,unpaid,Podcast Studio 2hr 7/16
+INV-1073,Dr. Sarah Patel,spatel@sagefamilytherapy.com,2026-07-17,2026-07-31,1500.00,paid,B077 Content Day
+INV-1074,Whitfield Family Law,info@whitfieldfamilylaw.com,2026-07-17,2026-07-31,900.00,paid,B078 Reels Pack
+INV-1075,Stone Bridge Realty LLC,kim@stonebridgerealty.com,2026-07-19,2026-08-02,1500.00,paid,Content Day 7/16
+INV-1076,Summit Med Spa - Plano,lucia@summitmedspa.com,2026-07-20,2026-08-03,1500.00,paid,
+INV-1077,Canyon Med Spa - Plano,megan@canyonmedspa.com,2026-07-20,2026-08-03,900.00,paid,
+INV-1078,Bluecat Agency,jen@bluecatmktg.com,2026-07-21,2026-08-04,900.00,paid,Reels Pack 7/20
+INV-1079,Wes Shah,wes@rosewoodbarbers.com,2026-07-22,2026-08-05,900.00,paid,Reels Pack 7/22
+INV-1080,Vista Church,media@vistadfw.org,2026-07-22,2026-08-05,255.00,paid,Podcast Studio 2hr 7/21
+INV-1081,Dallas Builders Podcast,quinn@dallasbuilders.fm,2026-07-22,2026-08-05,550.00,paid,
+INV-1082,Willow Coffee Roasters,sofia@willowcoffee.com,2026-07-22,2026-08-05,900.00,paid,B085 Reels Pack
+INV-1083,Sofia Ortiz,sofia@mindandmoney.fm,2026-07-23,2026-08-06,300.00,unpaid,Podcast Studio 2hr 7/22
+INV-1084,Morales's Auto,lucia@moralessautospa.com,2026-07-23,2026-08-06,900.00,paid,B079 Reels Pack
+INV-1085,Vista Church,media@vistadfw.org,2026-07-30,2026-08-13,255.00,paid,
+INV-1086,Ochoa Insurance Group,tony@ochoainsures.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1087,Evergreen Wealth Partners,dmalik@evergreenwp.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1088,Sunset Chiro,drmorales@sunsetchiro.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1089,Lakeside Builders LLC,mike@lakeside.build,2026-08-02,2026-08-16,1500.00,paid,B089 Content Day
+INV-1090,Bluecat Agency,jen@bluecatmktg.com,2026-08-03,2026-08-17,900.00,paid,B091 Reels Pack
+INV-1091,Quinn Walsh,quinn@dallasbuilders.fm,2026-08-05,2026-08-19,550.00,paid,
+INV-1092,Vista Media Team,media@vistadfw.org,2026-08-06,2026-08-20,255.00,paid,Podcast Studio 2hr 8/6
+INV-1093,Mind & Money Podcast,sofia@mindandmoney.fm,2026-08-06,2026-08-20,300.00,paid,
+INV-1094,Ethan's Roofing LLC,ethan@ethansroofingtx.com,2026-08-07,2026-08-21,900.00,unpaid,Reels Pack 8/6
+INV-1095,The Apex Lab,megan@theapexlab.coffee,2026-08-08,2026-08-22,900.00,paid,
+INV-1096,Maple Roofing,sam@mapleroofingco.com,2026-08-11,2026-08-25,900.00,paid,Reels Pack 8/10
+INV-1097,Prime,carlos@primeathletics.com,2026-08-12,2026-08-26,900.00,paid,
+INV-1098,Vista Media Team,media@vistadfw.org,2026-08-13,2026-08-27,255.00,paid,
+INV-1099,Ridgeway,reggie@ridgeway.build,2026-08-13,2026-08-27,1500.00,paid,Content Day 8/12
+INV-1100,Canyon Medspa,megan@canyonmedspa.com,2026-08-13,2026-08-27,900.00,paid,Reels Pack 8/13
+INV-1101,Kevin Mendez,kevin@stonebridgerg.com,2026-08-14,2026-08-28,1500.00,unpaid,
+INV-1102,Victor Jackson,victor@copperlinefit.co,2026-08-14,2026-08-28,900.00,paid,B103 Reels Pack
+INV-1103,Mind & Money,sofia@mindandmoney.fm,2026-08-15,2026-08-29,300.00,paid,Podcast Studio 2hr 8/12
+INV-1104,Moraless Auto,lucia@moralessautospa.com,2026-08-16,2026-08-30,900.00,paid,
+INV-1105,Whitfield Law,info@whitfieldfamilylaw.com,2026-08-17,2026-08-31,900.00,paid,
+INV-1106,Vista Media Team,media@vistadfw.org,2026-08-18,2026-09-01,300.00,paid,Podcast Studio 2hr 8/18
+INV-1107,Rosewood Barbershop,wes@rosewoodbarbers.com,2026-08-18,2026-09-01,900.00,paid,B109 Reels Pack
+INV-1108,Parkside Bridal Boutique,erin@parksidebridal.com,2026-08-19,2026-09-02,900.00,paid,B112 Reels Pack
+INV-1109,Willow Roasters,sofia@willowcoffee.com,2026-08-19,2026-09-02,900.00,paid,Reels Pack 8/17
+INV-1110,Dallas Builders Podcast,quinn@dallasbuilders.fm,2026-08-20,2026-09-03,550.00,paid,
+INV-1111,Kim Torres,kim@stonebridgerealty.com,2026-08-23,2026-09-06,1500.00,paid,
+INV-1112,Vista DFW,media@vistadfw.org,2026-08-24,2026-09-07,255.00,paid,
+INV-1113,Bluecat Agency,jen@bluecatmktg.com,2026-08-24,2026-09-07,900.00,paid,B117 Reels Pack
+INV-1114,Dr. Leah Torres,leah@granitedental.com,2026-08-25,2026-09-08,1500.00,paid,B115 Content Day
+INV-1115,M&M Podcast,sofia@mindandmoney.fm,2026-08-26,2026-09-09,300.00,paid,
+INV-1116,Kim's Auto,imran@kimsautospa.com,2026-08-28,2026-09-11,900.00,unpaid,
+INV-1117,Ochoa Insurance,tony@ochoainsures.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1118,Vista Church,media@vistadfw.org,2026-09-01,2026-09-15,255.00,paid,B122 Podcast Studio 2hr
+INV-1119,Evergreen Wealth Partners,dmalik@evergreenwp.com,2026-09-01,2026-09-15,2500.00,unpaid,Monthly retainer September
+INV-1120,Golden Years Home Care,gloria@goldenyearshomecare.com,2026-09-01,2026-09-15,1500.00,unpaid,B123 Content Day
+INV-1121,Dr. Morales,drmorales@sunsetchiro.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1122,Bluecat Agency,jen@bluecatmktg.com,2026-09-03,2026-09-17,900.00,paid,Reels Pack 8/31
+INV-1123,Sage Therapy,spatel@sagefamilytherapy.com,2026-09-03,2026-09-17,1500.00,paid,Content Day 9/2
+INV-1124,Ethan's Roofing LLC,ethan@ethansroofingtx.com,2026-09-04,2026-09-18,900.00,partial,
+INV-1125,The Apex Lab,megan@theapexlab.coffee,2026-09-05,2026-09-19,900.00,paid,Reels Pack 9/4
+INV-1126,Mind & Money Podcast,sofia@mindandmoney.fm,2026-09-06,2026-09-20,300.00,paid,Podcast Studio 2hr 9/3
+INV-1127,Vista Church,media@vistadfw.org,2026-09-07,2026-09-21,255.00,paid,B128 Podcast Studio 2hr
+INV-1128,Quinn Walsh,quinn@dallasbuilders.fm,2026-09-08,2026-09-22,550.00,unpaid,B129 Podcast Studio 4hr
+INV-1129,Lakeside & Co Builders,mike@lakeside.build,2026-09-10,2026-09-24,1500.00,paid,
+INV-1130,Summit Med Spa - Plano,lucia@summitmedspa.com,2026-09-14,2026-09-28,1500.00,paid,Content Day 9/11
+INV-1131,M&M Podcast,sofia@mindandmoney.fm,2026-09-15,2026-09-29,300.00,paid,
+INV-1132,Sam Shah,sam@mapleroofingco.com,2026-09-17,2026-10-01,900.00,paid,
+INV-1133,Stone Bridge Realty,kim@stonebridgerealty.com,2026-09-18,2026-10-02,1500.00,unpaid,B147 Content Day
+INV-1134,Rosewood Barbers,wes@rosewoodbarbers.com,2026-09-18,2026-10-02,900.00,paid,
+INV-1135,Whitfield Law,info@whitfieldfamilylaw.com,2026-09-18,2026-10-02,900.00,paid,
+INV-1136,Willow Coffee,sofia@willowcoffee.com,2026-09-19,2026-10-03,900.00,paid,
+INV-1137,Vista DFW,media@vistadfw.org,2026-09-19,2026-10-03,255.00,paid,Podcast Studio 2hr 9/16
+INV-1138,Prime,carlos@primeathletics.com,2026-09-20,2026-10-04,900.00,paid,Reels Pack 9/17
+INV-1139,Ridgeway Builders LLC,reggie@ridgeway.build,2026-09-22,2026-10-06,1500.00,paid,B146 Content Day
+INV-1140,Parkside Bridal Boutique,erin@parksidebridal.com,2026-09-23,2026-10-07,900.00,unpaid,Reels Pack 9/23
+INV-1141,Moraless Auto,lucia@moralessautospa.com,2026-09-24,2026-10-08,900.00,paid,Reels Pack 9/23
+INV-1142,Stonebridge RG,kevin@stonebridgerg.com,2026-09-24,2026-10-08,1500.00,paid,
+INV-1143,Copperline Fit,victor@copperlinefit.co,2026-09-25,2026-10-09,900.00,unpaid,
+INV-1144,Kim's Auto,imran@kimsautospa.com,2026-09-25,2026-10-09,900.00,unpaid,
+INV-1145,Mind & Money Podcast,sofia@mindandmoney.fm,2026-09-26,2026-10-10,300.00,unpaid,Podcast Studio 2hr 9/24
+INV-1146,Kim Torres,kim@stonebridgerealty.com,2026-09-28,2026-10-12,1500.00,unpaid,
+INV-1147,Ochoa Insurance Group,tony@ochoainsures.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1148,Dr. Morales,drmorales@sunsetchiro.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1149,Evergreen Wealth Partners,dmalik@evergreenwp.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1150,Vista Church,media@vistadfw.org,2026-10-01,2026-10-15,255.00,unpaid,
+INV-1151,Mind and Money,sofia@mindandmoney.fm,2026-10-01,2026-10-15,300.00,unpaid,
+INV-1152,Bluecat Agency,jen@bluecatmktg.com,2026-10-02,2026-10-16,900.00,unpaid,Reels Pack 10/1
+INV-1153,Bluecat Agency,jen@bluecatmktg.com,2026-10-04,2026-10-18,900.00,unpaid,
+INV-1154,Stone Bridge Realty LLC,kim@stonebridgerealty.com,2026-07-19,2026-08-02,1500.00,void,Content Day 7/16

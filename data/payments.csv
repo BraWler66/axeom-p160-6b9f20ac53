@@ -1,0 +1,132 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,10/04/2026,SOFIA ORTIZ,sofia@mindandmoney.fm,300.00,Zelle,INV-1002
+P5002,15/04/2026,SOFIA ORTIZ,sofia@mindandmoney.fm,300.00,card,INV-1003
+P5003,19/04/2026,Vista Church,media@vistadfw.org,300.00,ACH,INV-1001
+P5004,20/04/2026,MAPLE ROOFING,sam@mapleroofingco.com,900.00,card,
+P5005,22/04/2026,Summit Medspa,lucia@summitmedspa.com,1500.00,Zelle,INV-1010
+P5006,25/04/2026,Whitfield Dental PLLC,tanya@whitfielddental.com,1500.00,ACH,INV-1006
+P5007,26/04/2026,Vista Media Team,media@vistadfw.org,300.00,card,INV-1009
+P5008,27/04/2026,MIKE KHAN,mike@lakeside.build,1500.00,Zelle,
+P5009,30/04/2026,Dallas Builders Podcast,quinn@dallasbuilders.fm,550.00,ACH,INV-1005
+P5010,04/05/2026,Evergreen Wealth Partners,dmalik@evergreenwp.com,2500.00,card,INV-1016
+P5011,05/05/2026,M&M PODCAST,sofia@mindandmoney.fm,300.00,card,INV-1011
+P5012,07/05/2026,VISTA CHURCH,media@vistadfw.org,300.00,card,
+P5013,09/05/2026,Parkside Bridal,erin@parksidebridal.com,900.00,Zelle,
+P5014,10/05/2026,KEVIN CARTER,media@vistadfw.org,300.00,card,
+P5015,12/05/2026,Quinn Walsh,quinn@dallasbuilders.fm,550.00,ACH,
+P5016,13/05/2026,Dr. Morales,drmorales@sunsetchiro.com,2500.00,ACH,INV-1013
+P5017,14/05/2026,M&M Podcast,sofia@mindandmoney.fm,300.00,ACH,
+P5018,15/05/2026,Vista Media Team,media@vistadfw.org,255.00,card,
+P5019,16/05/2026,PASTOR KEVIN CARTER,media@vistadfw.org,255.00,Zelle,INV-1021
+P5020,21/05/2026,Mind & Money,sofia@mindandmoney.fm,300.00,ACH,INV-1024
+P5021,22/05/2026,Dallas Builders Podcast,quinn@dallasbuilders.fm,550.00,Zelle,
+P5022,23/05/2026,Jackson,sjackson@jacksonlaw.com,2500.00,ACH,INV-1015
+P5023,27/05/2026,Canyon Med Spa,megan@canyonmedspa.com,900.00,card,INV-1022
+P5024,29/05/2026,SOFIA ORTIZ,sofia@mindandmoney.fm,300.00,card,INV-1028
+P5025,29/05/2026,COPPERLINE,victor@copperlinefit.co,900.00,card,INV-1020
+P5026,30/05/2026,Parkside Bridal,erin@parksidebridal.com,900.00,card,INV-1029
+P5027,30/05/2026,Vista DFW,media@vistadfw.org,255.00,ACH,
+P5028,31/05/2026,MAPLE ROOFING,sam@mapleroofingco.com,900.00,card,
+P5029,04/06/2026,Dr. Leah Torres,leah@granitedental.com,1500.00,card,
+P5030,06/06/2026,Victor Jackson,victor@copperlinefit.co,900.00,ACH,INV-1038
+P5031,09/06/2026,Vista Church,media@vistadfw.org,255.00,card,INV-1039
+P5032,09/06/2026,MIKE KHAN,mike@lakeside.build,1500.00,card,
+P5033,10/06/2026,Stone Bridge Realty,kim@stonebridgerealty.com,1500.00,card,
+P5034,10/06/2026,Dr. Morales,drmorales@sunsetchiro.com,2000.00,ACH,
+P5035,10/06/2026,Ochoa Insurance,tony@ochoainsures.com,2500.00,card,INV-1032
+P5036,13/06/2026,Dallas Builders,quinn@dallasbuilders.fm,550.00,card,
+P5037,13/06/2026,Whitfield Law,info@whitfieldfamilylaw.com,900.00,ACH,INV-1045
+P5038,13/06/2026,Rosewood Barbershop,wes@rosewoodbarbers.com,900.00,ACH,INV-1026
+P5039,15/06/2026,SUMMIT MEDSPA,lucia@summitmedspa.com,1500.00,card,INV-1046
+P5040,16/06/2026,Vista Church,media@vistadfw.org,255.00,ACH,INV-1047
+P5041,16/06/2026,JACKSON LAW,sjackson@jacksonlaw.com,2500.00,ACH,INV-1031
+P5042,18/06/2026,Canyon Medspa,megan@canyonmedspa.com,900.00,Zelle,INV-1042
+P5043,19/06/2026,MAPLE ROOFING,sam@mapleroofingco.com,900.00,ACH,
+P5044,23/06/2026,VISTA CHURCH,media@vistadfw.org,255.00,ACH,INV-1035
+P5045,23/06/2026,Evergreen WP,dmalik@evergreenwp.com,2500.00,card,INV-1033
+P5046,26/06/2026,DR. TANYA WHITFIELD,tanya@whitfielddental.com,1500.00,card,INV-1043
+P5047,26/06/2026,Wes Shah,wes@rosewoodbarbers.com,900.00,card,
+P5048,26/06/2026,Vista DFW,media@vistadfw.org,255.00,Zelle,INV-1050
+P5049,30/06/2026,Erin Daniels,erin@parksidebridal.com,900.00,card,INV-1054
+P5050,01/07/2026,M&M Podcast,sofia@mindandmoney.fm,300.00,ACH,
+P5051,02/07/2026,SOFIA ORTIZ,sofia@mindandmoney.fm,300.00,card,
+P5052,02/07/2026,Evergreen WP,dmalik@evergreenwp.com,2500.00,Zelle,INV-1059
+P5053,03/07/2026,VISTA DFW,media@vistadfw.org,255.00,ACH,INV-1061
+P5054,05/07/2026,BLUECAT AGENCY LLC,jen@bluecatmktg.com,900.00,ACH,Bluecat Jun invoices
+P5055,09/07/2026,Ridgeway,reggie@ridgeway.build,1500.00,Zelle,
+P5056,10/07/2026,VISTA DFW,media@vistadfw.org,255.00,ACH,INV-1065
+P5057,10/07/2026,Dallas Builders,quinn@dallasbuilders.fm,550.00,card,
+P5058,13/07/2026,Ochoa Insurance Group,tony@ochoainsures.com,2500.00,card,INV-1057
+P5059,13/07/2026,Sunset Chiropractic,drmorales@sunsetchiro.com,2500.00,card,INV-1060
+P5060,14/07/2026,Willow Coffee Roasters,sofia@willowcoffee.com,900.00,ACH,INV-1055
+P5061,16/07/2026,Dr. Tanya Whitfield,tanya@whitfielddental.com,1500.00,card,INV-1070
+P5062,17/07/2026,VISTA CHURCH,media@vistadfw.org,255.00,card,INV-1068
+P5063,18/07/2026,Mind & Money,sofia@mindandmoney.fm,300.00,Zelle,INV-1056
+P5064,22/07/2026,Maple Roofing Co,sam@mapleroofingco.com,900.00,card,
+P5065,24/07/2026,Whitfield Family Law,info@whitfieldfamilylaw.com,900.00,ACH,
+P5066,26/07/2026,Stone Bridge Realty LLC,kim@stonebridgerealty.com,1500.00,card,
+P5067,26/07/2026,Prime Gym TX,carlos@primegym.co,900.00,Zelle,INV-1064
+P5068,28/07/2026,COPPERLINE FITNESS,victor@copperlinefit.co,900.00,Zelle,INV-1067
+P5069,28/07/2026,QUINN WALSH,quinn@dallasbuilders.fm,550.00,card,INV-1063
+P5070,29/07/2026,WILLOW COFFEE ROASTERS,sofia@willowcoffee.com,900.00,card,INV-1082
+P5071,31/07/2026,Wes Shah,wes@rosewoodbarbers.com,900.00,ACH,INV-1079
+P5073,02/08/2026,Granite Dental,leah@granitedental.com,1500.00,card,INV-1069
+P5074,02/08/2026,Wes Shah,wes@rosewoodbarbers.com,900.00,card,INV-1079
+P5075,03/08/2026,ERIN DANIELS,erin@parksidebridal.com,900.00,ACH,
+P5076,04/08/2026,SAGE THERAPY,spatel@sagefamilytherapy.com,1500.00,Zelle,INV-1073
+P5077,04/08/2026,SOFIA ORTIZ,,900.00,Zelle,july sessions
+P5078,05/08/2026,BLUECAT AGENCY LLC,jen@bluecatmktg.com,1800.00,ACH,Bluecat Jul invoices
+P5079,06/08/2026,Ochoa Ins,tony@ochoainsures.com,2500.00,ACH,INV-1086
+P5080,06/08/2026,Dallas Builders Podcast,quinn@dallasbuilders.fm,550.00,Zelle,
+P5081,06/08/2026,Vista DFW,media@vistadfw.org,255.00,card,INV-1085
+P5082,06/08/2026,SIMONE MORALES,drmorales@sunsetchiro.com,2500.00,Zelle,
+P5083,07/08/2026,Canyon Med Spa - Plano,megan@canyonmedspa.com,900.00,card,INV-1077
+P5084,10/08/2026,MORALESS AUTO,lucia@moralessautospa.com,900.00,card,
+P5085,11/08/2026,LUCIA GREEN,lucia@summitmedspa.com,1500.00,ACH,INV-1076
+P5086,11/08/2026,THE APEX LAB,megan@theapexlab.coffee,900.00,card,INV-1095
+P5087,12/08/2026,Ethan's Roofing LLC,ethan@ethansroofingtx.com,900.00,Zelle,INV-1094
+P5088,13/08/2026,Vista DFW,media@vistadfw.org,255.00,card,INV-1080
+P5089,14/08/2026,Vista Media Team,media@vistadfw.org,255.00,card,INV-1098
+P5090,15/08/2026,Prime Gym,carlos@primeathletics.com,900.00,ACH,INV-1097
+P5091,15/08/2026,KEVIN CARTER,media@vistadfw.org,255.00,ACH,INV-1092
+P5092,18/08/2026,SOFIA ORTIZ,sofia@mindandmoney.fm,300.00,card,INV-1103
+P5093,19/08/2026,EVERGREEN WEALTH PARTNERS,dmalik@evergreenwp.com,2500.00,Zelle,INV-1087
+P5094,20/08/2026,TRENT WHITFIELD,info@whitfieldfamilylaw.com,900.00,ACH,INV-1105
+P5095,21/08/2026,M&M Podcast,sofia@mindandmoney.fm,300.00,Zelle,
+P5096,23/08/2026,Copperline,victor@copperlinefit.co,900.00,ACH,INV-1102
+P5097,23/08/2026,Moraless Auto,lucia@moralessautospa.com,900.00,Zelle,INV-1104
+P5098,23/08/2026,Vista DFW,media@vistadfw.org,300.00,card,INV-1106
+P5099,24/08/2026,MIKE KHAN,mike@lakeside.build,1500.00,Zelle,
+P5100,25/08/2026,RIDGEWAY BUILDERS,reggie@ridgeway.build,1500.00,card,INV-1099
+P5101,26/08/2026,Dr. Leah Torres,leah@granitedental.com,1500.00,card,
+P5102,27/08/2026,Quinn Walsh,quinn@dallasbuilders.fm,550.00,Zelle,INV-1091
+P5103,29/08/2026,QUINN WALSH,quinn@dallasbuilders.fm,550.00,Zelle,INV-1110
+P5104,31/08/2026,MEGAN KIM,megan@canyonmedspa.com,900.00,Zelle,INV-1100
+P5105,31/08/2026,WILLOW COFFEE,sofia@willowcoffee.com,900.00,ACH,
+P5106,31/08/2026,Mind and Money,sofia@mindandmoney.fm,300.00,Zelle,INV-1115
+P5107,03/09/2026,Parkside Bridal Boutique,erin@parksidebridal.com,900.00,Zelle,INV-1108
+P5108,03/09/2026,VISTA CHURCH,media@vistadfw.org,255.00,card,INV-1118
+P5109,04/09/2026,Kim Torres,kim@stonebridgerealty.com,1500.00,Zelle,INV-1111
+P5110,05/09/2026,BLUECAT AGENCY LLC,jen@bluecatmktg.com,1800.00,ACH,Bluecat Aug invoices
+P5111,05/09/2026,ROSEWOOD BARBERSHOP,wes@rosewoodbarbers.com,900.00,card,INV-1107
+P5112,06/09/2026,Apex Lab,megan@theapexlab.coffee,900.00,card,
+P5113,08/09/2026,Ochoa Ins,tony@ochoainsures.com,2500.00,card,INV-1117
+P5114,08/09/2026,Sage Therapy,spatel@sagefamilytherapy.com,1500.00,card,INV-1123
+P5115,09/09/2026,Vista DFW,media@vistadfw.org,255.00,card,INV-1127
+P5116,10/09/2026,Sunset Chiro,drmorales@sunsetchiro.com,2500.00,Zelle,INV-1121
+P5117,11/09/2026,Vista Media Team,media@vistadfw.org,255.00,ACH,INV-1112
+P5118,14/09/2026,ETHAN WALLACE,,450.00,Zelle,half now half later
+P5119,15/09/2026,Mind & Money Podcast,sofia@mindandmoney.fm,300.00,Zelle,INV-1126
+P5120,18/09/2026,Maple Roofing Co,sam@mapleroofingco.com,900.00,card,INV-1132
+P5121,20/09/2026,SOFIA JACKSON,sofia@willowcoffee.com,900.00,card,INV-1136
+P5122,22/09/2026,Lakeside Builders,mike@lakeside.build,1500.00,ACH,INV-1129
+P5123,23/09/2026,Ridgeway Builders LLC,reggie@ridgeway.build,1500.00,ACH,INV-1139
+P5124,24/09/2026,Vista Church,media@vistadfw.org,255.00,card,
+P5125,25/09/2026,Moraless Auto,lucia@moralessautospa.com,900.00,card,
+P5126,25/09/2026,PRIME ATHLETICS,carlos@primeathletics.com,900.00,ACH,
+P5127,25/09/2026,STONEBRIDGE RG,kevin@stonebridgerg.com,1500.00,card,
+P5128,30/09/2026,Wes Shah,wes@rosewoodbarbers.com,900.00,card,INV-1134
+P5129,03/10/2026,Mind and Money,sofia@mindandmoney.fm,300.00,ACH,INV-1131
+P5130,03/10/2026,Whitfield Family Law PLLC,info@whitfieldfamilylaw.com,900.00,Zelle,
+P5131,05/10/2026,BLUECAT AGENCY LLC,jen@bluecatmktg.com,900.00,ACH,Bluecat Sep invoices
+P5132,06/10/2026,Summit,lucia@summitmedspa.com,1500.00,card,INV-1130
